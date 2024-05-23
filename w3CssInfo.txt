@@ -1,6 +1,25 @@
-1.w3BackgroundColor {w3-color}
-2.w3TextColor {w3-text-color}
+1.w3BackgroundColor {w3-color w3-hover-color}
+
+2.w3TextColor {w3-text-color w3-hover-text-color}
+
 3.w3-panel [The w3-panel class adds a 16px top and bottom margin and a 16px left and right padding to any HTML element]
+
 4.w3Borders {w3-border w3-border-top w3-broder-bottom w3-border-right w3-border-left w3-border-0 w3-hover-border-color w3-bottombar w3-topbar w3-rightbar w3-leftbar}
+w3-round-size
+w3-hover-border-color
+
 5.w3Card {w3-card-2 [Container for any HTML content (2px bordered shadow)]} {w3-card-4 [Container for any HTML content (4px bordered shadow)]}
+
+6.  The default font-size is 15px
+	The default font is Verdana, which has a good letter spacing
+	The default line-spacing (1.5) is also very good
+	
+7.fontSize {w3-size}
+
+8. w3-serif
+w3-sans-serif
+w3-monospace
+w3-cursive
+
+
 
